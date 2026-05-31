@@ -1,0 +1,6 @@
+{
+  "name": "Voice Camera",
+  "description": "Voice-controlled camera app that allows changing settings and recording via voice commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
